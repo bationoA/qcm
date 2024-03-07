@@ -1,0 +1,51 @@
+question_no,options,is_true_option,details
+1,Différencier bactéries Gram + et Gram -.,TRUE,"La coloration de Gram permet de différencier les bactéries en deux groupes, les Gram positifs et les Gram négatifs, en fonction de leur réaction à certaines teintures."
+1,Pour détecter la présence de virus dans les échantillons.,FALSE,
+1,Pour identifier les champignons présents dans les échantillons.,FALSE,
+1,Pour éliminer les bactéries des échantillons.,FALSE,
+1,Pour compter le nombre de cellules dans les échantillons.,FALSE,
+2,Coloration des bactéries au cristal violet.,TRUE,Les bactéries Gram positives retiennent la coloration violet foncé et apparaissent violettes au microscope.
+2,L'ajout de colorant vert.,FALSE,
+2,L'application d'un fixateur.,FALSE,
+2,La coloration des bactéries avec de l'alcool.,FALSE,
+2,L'utilisation de la lumière ultraviolette.,FALSE,
+3,"Retiennent violet, paraissent violettes.",TRUE,Les bactéries Gram positives retiennent la coloration violet foncé et apparaissent violettes au microscope.
+3,Elles deviennent vertes.,FALSE,
+3,Elles deviennent roses.,FALSE,
+3,Elles retiennent la coloration violet foncé.,FALSE,
+3,Elles ne retiennent aucune couleur.,FALSE,
+4,Rouges/roses.,TRUE,Les bactéries Gram négatives apparaissent rouges ou roses après la coloration de Gram.
+4,Violet foncé.,FALSE,
+4,Bleu clair.,FALSE,
+4,Jaune.,FALSE,
+4,Vert.,FALSE,
+5,Différencier les réactions des bactéries.,TRUE,Les bactéries Gram négatives apparaissent rouges ou roses après la coloration de Gram.
+5,Pour éliminer les bactéries Gram positives.,FALSE,
+5,Pour fixer la coloration dans les bactéries.,FALSE,
+5,Pour rendre les bactéries transparentes.,FALSE,
+5,Pour rendre les bactéries visibles au microscope.,FALSE,
+6,"Cristal violet, iode, alcool, contre-coloration.",TRUE,"Les composants principaux sont le cristal violet, l'iode, l'alcool/éthanol, et la contre-coloration (généralement la safranine)."
+6,Le bleu de méthylène.,FALSE,
+6,Le rouge Congo.,FALSE,
+6,Le violet de gentiane.,FALSE,
+6,Le jaune d'acridine.,FALSE,
+7,Fixer le cristal violet.,TRUE,"L'iode sert de mordant, fixant le cristal violet dans les bactéries et augmentant leur rétention de la teinture."
+7,Pour rendre les bactéries fluorescentes.,FALSE,
+7,Pour augmenter la viscosité de la solution.,FALSE,
+7,Pour réhydrater les échantillons.,FALSE,
+7,Pour fixer le cristal violet dans les bactéries.,FALSE,
+8,"Décolorer les Gram -, consolider les Gram +.",TRUE,L'alcool/éthanol décolore les bactéries en éliminant le cristal violet des Gram négatifs tout en consolidant la coloration des Gram positifs.
+8,Pour rendre les bactéries plus visibles.,FALSE,
+8,Pour fixer la contre-coloration.,FALSE,
+8,Pour augmenter la coloration des Gram négatifs.,FALSE,
+8,Pour décolorer les bactéries Gram positives.,FALSE,
+9,"Paroi plus épaisse pour Gram +, paroi plus fine et membrane externe pour Gram -.",TRUE,"Les bactéries Gram positives ont une paroi cellulaire plus épaisse, tandis que les Gram négatives ont une paroi plus fine et une membrane externe."
+9,Les Gram positives ont une paroi plus fine.,FALSE,
+9,Les Gram négatives ont une paroi plus épaisse.,FALSE,
+9,Les Gram positives ont une membrane externe.,FALSE,
+9,Les Gram négatives ont une membrane interne.,FALSE,
+10,Aide à classifier les bactéries selon leur réaction à la coloration.,TRUE,"La coloration de Gram aide les microbiologistes à classer les bactéries en fonction de leur réaction aux différentes étapes de la coloration, fournissant des informations utiles pour le diagnostic et le traitement des infections bactériennes."
+10,Elle ne joue aucun rôle dans la classification.,FALSE,
+10,Elle permet de déterminer le genre des bactéries.,FALSE,
+10,Elle facilite la visualisation des virus.,FALSE,
+10,Elle fournit des informations sur la réaction des bactéries aux différentes étapes de la coloration.,FALSE,
