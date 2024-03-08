@@ -111,7 +111,7 @@ if are_all_questions_answered:
                 current_question_options["is_true_option"]]
             current_question_correct_answer_option = current_question_correct_answer_df["options"].values[0]
             current_question_correct_answer_details = current_question_correct_answer_df["details"].values[0]
-            print(current_answer_dict)
+
             questions_table += f"""
             <h5>Question {current_question_key}: {current_answer_dict["question"]}</h5>
             <table style="width: 100%">

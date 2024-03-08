@@ -44,7 +44,7 @@ def value_by_index(list_: list, ind: int):
     return list_[ind]
 
 
-def get_index_of_max_value(series: list, return_max_val=False) -> int | tuple:
+def get_index_of_max_value(series: list, return_max_val=False):
     series = list(series)
     max_value = max(series)
     index_ = series.index(max_value)
