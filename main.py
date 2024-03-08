@@ -48,7 +48,7 @@ else:
         )
 
         # Every form must have a submit button.
-        submitted = st.form_submit_button("Submit")
+        submitted = st.form_submit_button("Valider")
         if submitted:
             if user_answer == "":
                 st.warning("Veuillez sélectionner une réponse.")
