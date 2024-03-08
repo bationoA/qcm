@@ -1,4 +1,4 @@
-question_no,options,is_true_option,details
+question_num,options,is_true_option,details
 1,Différencier bactéries Gram + et Gram -.,TRUE,"La coloration de Gram permet de différencier les bactéries en deux groupes, les Gram positifs et les Gram négatifs, en fonction de leur réaction à certaines teintures."
 1,Pour détecter la présence de virus dans les échantillons.,FALSE,
 1,Pour identifier les champignons présents dans les échantillons.,FALSE,
